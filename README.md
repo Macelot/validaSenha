@@ -51,3 +51,7 @@
 * *[a-z&&[^m-p]]		    subtração	
 * *\x					fuga literal
     
+
+Vídeo sobre diferentes tipos de validação de senha https://youtu.be/cEF69amZc3I
+
+Bons códigos:
